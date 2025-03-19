@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unrealProjects/ThievesOfSeasv2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/Assets/myBackGroundv1.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/Assets/treasure_indicator.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/E/GP/22PD314FCWY4ZK61DE3XZC.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
+				"D:/unrealProjects/ThievesOfSeasv2/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset"
+			]
+		}
+	]
+}

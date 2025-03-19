@@ -1,0 +1,6 @@
+Binaries/\nBuild/\nDerivedDataCache/\nIntermediate/\nSaved/\n*.sln\n*.log
+Binaries/
+Intermediate/
+.vs/
+*.pdb
+*.db

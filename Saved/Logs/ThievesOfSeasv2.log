@@ -1510,3 +1510,1541 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2025.03.27-14.23.58:185][ 45]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-48fPYMWXDkiHEYqwTytvcQ-uNdbPY5r50uRptT7yh6o2w]
 [2025.03.27-14.24.07:764][700]LogSlate: Window 'Message Log' being destroyed
 [2025.03.27-14.24.07:769][700]LogSlate: Window 'Message Log' being destroyed
+[2025.03.27-14.24.51:066][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.24.51:075][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.24.51:086][943]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.27-14.24.51:086][943]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.27-14.24.51:086][943]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.24.51:100][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013834s)
+[2025.03.27-14.24.51:100][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013883s)
+[2025.03.27-14.24.51:137][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-14.24.51:138][943]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.24.51:139][943]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2025.03.27-14.24.51:141][943]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.24.51:141][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.24.51:141][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.24.51:141][943]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.24.51:141][943]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.24.51:141][943]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.24.51:143][943]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.24.51:169][943]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.24.51:169][943]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.24.51:169][943]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.24.51:169][943]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.24.51:170][943]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.27-14.24.51:170][943]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.27-14.24.51:173][943]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.27-14.24.51:173][943]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.27-14.24.51:173][943]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.27-14.24.51:173][943]LogAudio: Display: Audio Device (ID: 2) registered with world 'TresureIsland'.
+[2025.03.27-14.24.51:173][943]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.27-14.24.51:176][943]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.24.51:184][943]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.24.51
+[2025.03.27-14.24.51:185][943]LogWorld: Bringing up level for play took: 0.009114
+[2025.03.27-14.24.51:188][943]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.03.27-14.24.51:194][943]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.24.51:194][943]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.24.51:194][943]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.24.51:216][943]PIE: Server logged in
+[2025.03.27-14.24.51:217][943]PIE: Play in editor total start time 0,144 seconds.
+[2025.03.27-14.24.56:522][409]LogBlueprintUserMessages: [Player_C_0] Landscape
+[2025.03.27-14.24.59:710][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.24.59:710][692]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.24.59:710][692]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.24.59:714][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.24.59:718][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.24.59:721][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.24.59:731][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.24.59:731][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.27-14.24.59:731][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.27-14.24.59:733][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.27-14.24.59:743][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-14.24.59:792][694]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.03.27-14.25.00:314][732]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.27-14.25.00:325][732]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.27-14.25.00:376][732]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2025.03.27-14.25.00:454][733]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.03.27-14.25.00:462][733]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.25.00:462][733]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.25.00:502][734]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.27-14.25.00:546][736]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.03.27-14.25.02:246][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player.Player
+[2025.03.27-14.25.02:246][855]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.03.27-14.25.02:284][855]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.27-14.25.04:491][855]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.25.04:491][855]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.25.04:506][855]LogSlate: Took 0.006196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.27-14.25.04:932][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.03.27-14.25.08:481][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.25.08:553][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player] ([2] browsable assets)...
+[2025.03.27-14.25.08:567][137]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player.Player]
+[2025.03.27-14.25.08:567][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player]
+[2025.03.27-14.25.08:567][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset" SILENT=true
+[2025.03.27-14.25.08:591][137]LogSavePackage: Moving output files for package: /Game/Player
+[2025.03.27-14.25.08:591][137]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/Player62CA965649887CEFB18ACCA701C6BABE.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset'
+[2025.03.27-14.25.08:603][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.636 ms
+[2025.03.27-14.25.08:667][137]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.25.08:667][137]LogContentValidation: Enabled validators:
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.25.08:667][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.25.08:669][137]AssetCheck: /Game/Player Validating asset
+[2025.03.27-14.25.10:257][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.25.10:257][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.25.10:261][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.25.10:261][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.25.10:317][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.27-14.25.10:328][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.25.10:328][262]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.25.17:160][735]LogDerivedDataCache: C:/Users/pweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.27-14.25.50:122][928]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.27-14.25.52:905][118]Cmd: DELETE
+[2025.03.27-14.25.52:905][118]Cmd: ACTOR DELETE
+[2025.03.27-14.25.52:917][118]LogEditorActor: Deleted Actor: TreasureChest_C
+[2025.03.27-14.25.52:941][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.27-14.25.52:943][118]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.03.27-14.25.56:955][409]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.27-14.25.57:041][412]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.27-14.25.57:107][415]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.03.27-14.25.57:171][418]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.03.27-14.25.57:188][419]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.03.27-14.25.58:046][469]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.25.58:046][469]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.25.58:057][469]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_0
+[2025.03.27-14.25.58:069][469]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_0
+[2025.03.27-14.25.58:676][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.27-14.25.58:678][489]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.27-14.25.58:686][489]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.25.58:686][489]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.25.58:697][489]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_1
+[2025.03.27-14.25.58:707][489]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_1
+[2025.03.27-14.26.01:695][693]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/TreasureChest.TreasureChest
+[2025.03.27-14.26.01:695][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.03.27-14.26.02:116][693]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.03.27-14.26.51:003][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.26.51:070][ 25]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.26.51:082][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.26.51:083][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.26.51:083][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.26.51:093][ 25]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.26.51:093][ 25]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestA3774A8645AAC51ACA03B297C53C369F.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.26.51:105][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.247 ms (total: 223.884 ms)
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: Enabled validators:
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.26.51:176][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.26.51:176][ 25]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.26.52:819][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.27-14.26.54:810][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.26.54:818][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.26.54:850][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.26.54:864][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014104s)
+[2025.03.27-14.26.54:864][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.014150s)
+[2025.03.27-14.26.54:885][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.27-14.26.54:892][345]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.26.54:894][345]LogPlayLevel: PIE: World Init took: (0.002199s)
+[2025.03.27-14.26.54:895][345]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.26.54:895][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.26.54:895][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.26.54:895][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.26.54:895][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.26.54:896][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.26.54:898][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.26.54:929][345]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.26.54:929][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.26.54:929][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.26.54:929][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.26.54:930][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.03.27-14.26.54:930][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.03.27-14.26.54:934][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.03.27-14.26.54:934][345]LogInit: FAudioDevice initialized with ID 3.
+[2025.03.27-14.26.54:934][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.03.27-14.26.54:934][345]LogAudio: Display: Audio Device (ID: 3) registered with world 'TresureIsland'.
+[2025.03.27-14.26.54:934][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.27-14.26.54:937][345]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.26.54:947][345]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.26.54
+[2025.03.27-14.26.54:947][345]LogWorld: Bringing up level for play took: 0.010267
+[2025.03.27-14.26.54:951][345]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.27-14.26.54:954][345]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.26.54:954][345]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.26.54:954][345]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.26.54:980][345]PIE: Server logged in
+[2025.03.27-14.26.54:981][345]PIE: Play in editor total start time 0,163 seconds.
+[2025.03.27-14.27.01:206][882]LogBlueprintUserMessages: [Player_C_0] 
+[2025.03.27-14.27.08:154][480]LogBlueprintUserMessages: [Player_C_0] 
+[2025.03.27-14.27.12:471][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.27.12:471][843]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.27.12:471][843]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.27.12:475][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.27.12:485][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.27.12:490][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.27.12:510][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.27.12:511][843]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.03.27-14.27.12:511][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.27-14.27.12:514][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.03.27-14.27.12:518][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.27.12:523][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.03.27-14.27.12:583][844]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.27-14.27.15:072][ 15]Cmd: DELETE
+[2025.03.27-14.27.15:073][ 15]Cmd: ACTOR DELETE
+[2025.03.27-14.27.15:079][ 15]LogEditorActor: Deleted Actor: TreasureChest_C
+[2025.03.27-14.27.15:103][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.27-14.27.15:106][ 15]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.03.27-14.27.16:809][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.27.16:809][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.27.16:818][127]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_2
+[2025.03.27-14.27.16:828][127]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_2
+[2025.03.27-14.27.17:353][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-14.27.17:355][143]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.03.27-14.27.17:362][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.27.17:362][143]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.27.17:373][143]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_3
+[2025.03.27-14.27.17:383][143]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_3
+[2025.03.27-14.27.20:859][377]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.27.20:871][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.27.20:909][377]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.27.20:925][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015428s)
+[2025.03.27-14.27.20:925][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.015516s)
+[2025.03.27-14.27.20:951][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.03.27-14.27.20:954][377]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.27.20:956][377]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2025.03.27-14.27.20:957][377]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.27.20:957][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.27.20:957][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.27.20:957][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.27.20:957][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.27.20:957][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.27.20:960][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.27.20:989][377]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.27.20:989][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.27.20:989][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.27.20:989][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.27.20:989][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.27-14.27.20:989][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.27-14.27.20:993][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.27-14.27.20:993][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.27-14.27.20:993][377]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.27-14.27.20:993][377]LogAudio: Display: Audio Device (ID: 4) registered with world 'TresureIsland'.
+[2025.03.27-14.27.20:993][377]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.27-14.27.20:997][377]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.27.21:006][377]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.27.21
+[2025.03.27-14.27.21:007][377]LogWorld: Bringing up level for play took: 0.010666
+[2025.03.27-14.27.21:011][377]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.27-14.27.21:014][377]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.27.21:014][377]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.27.21:014][377]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.27.21:041][377]PIE: Server logged in
+[2025.03.27-14.27.21:043][377]PIE: Play in editor total start time 0,172 seconds.
+[2025.03.27-14.27.31:369][279]LogBlueprintUserMessages: [Player_C_0] 
+[2025.03.27-14.27.34:930][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.27.34:930][575]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.27.34:930][575]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.27.34:934][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.27.34:938][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.27.34:945][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.27.34:966][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.27.34:966][575]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.27-14.27.34:966][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.27-14.27.34:968][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.27-14.27.34:974][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.27.34:980][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.27-14.27.35:059][576]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.27-14.27.35:486][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.27.35:570][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.27.35:614][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.27-14.27.35:691][606]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.27.35:691][606]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland3F83E3DB4F30CC0BAA8C338C9A512455.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.27.35:704][606]LogFileHelpers: Saving map 'TresureIsland' took 0.135
+[2025.03.27-14.27.35:725][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.687 ms (total: 462.571 ms)
+[2025.03.27-14.27.35:793][606]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.27.35:793][606]LogContentValidation: Enabled validators:
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.27.35:793][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.27.35:793][606]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.28.23:606][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.28.23:665][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.28.23:679][288]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.28.23:679][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.28.23:679][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.28.23:688][288]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.28.23:689][288]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest5D0064964EF8951D268E2EAA35D1672E.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.28.23:700][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.634 ms (total: 557.205 ms)
+[2025.03.27-14.28.23:771][288]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.28.23:771][288]LogContentValidation: Enabled validators:
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.28.23:771][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.28.23:771][288]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.28.36:417][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.28.36:481][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player] ([2] browsable assets)...
+[2025.03.27-14.28.36:500][668]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player.Player]
+[2025.03.27-14.28.36:500][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player]
+[2025.03.27-14.28.36:500][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset" SILENT=true
+[2025.03.27-14.28.36:522][668]LogSavePackage: Moving output files for package: /Game/Player
+[2025.03.27-14.28.36:522][668]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/Player22C1AA2448B0C0AC997436A7545BB7DF.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset'
+[2025.03.27-14.28.36:535][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.693 ms (total: 674.898 ms)
+[2025.03.27-14.28.36:599][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.28.36:599][668]LogContentValidation: Enabled validators:
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.28.36:599][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.28.36:600][668]AssetCheck: /Game/Player Validating asset
+[2025.03.27-14.28.40:623][ 38]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.28.40:681][ 44]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.28.41:874][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.28.41:901][128]LogPlayLevel: [PlayLevel] Compiling TreasureChest before play...
+[2025.03.27-14.28.42:058][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.27-14.28.42:061][128]LogPlayLevel: PlayLevel: Blueprint regeneration took 177 ms (1 blueprints)
+[2025.03.27-14.28.42:061][128]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.28.42:075][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012931s)
+[2025.03.27-14.28.42:075][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.012970s)
+[2025.03.27-14.28.42:095][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.27-14.28.42:096][128]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.28.42:097][128]LogPlayLevel: PIE: World Init took: (0.001762s)
+[2025.03.27-14.28.42:098][128]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.28.42:098][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.28.42:098][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.28.42:098][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.28.42:098][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.28.42:098][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.28.42:101][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.28.42:128][128]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.28.42:128][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.28.42:128][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.28.42:128][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.28.42:129][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.27-14.28.42:129][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.27-14.28.42:132][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.27-14.28.42:132][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.27-14.28.42:132][128]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.27-14.28.42:132][128]LogAudio: Display: Audio Device (ID: 5) registered with world 'TresureIsland'.
+[2025.03.27-14.28.42:132][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.27-14.28.42:135][128]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.28.42:145][128]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.28.42
+[2025.03.27-14.28.42:146][128]LogWorld: Bringing up level for play took: 0.009266
+[2025.03.27-14.28.42:148][128]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.27-14.28.42:151][128]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.28.42:151][128]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.28.42:151][128]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.28.42:173][128]PIE: Server logged in
+[2025.03.27-14.28.42:174][128]PIE: Play in editor total start time 0,291 seconds.
+[2025.03.27-14.28.48:633][684]LogBlueprintUserMessages: [Player_C_0] 
+[2025.03.27-14.28.50:710][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.28.50:710][855]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.28.50:710][855]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.28.50:714][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.28.50:719][855]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.28.50:724][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.28.50:744][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.28.50:745][855]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.27-14.28.50:745][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.27-14.28.50:747][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.27-14.28.50:757][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.27-14.28.50:836][856]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.27-14.28.52:275][955]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.28.52:342][961]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.29.02:646][942]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.29.02:709][947]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.29.23:865][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.29.23:924][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.29.23:966][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.27-14.29.24:056][952]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.29.24:056][952]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland15DBFE5047711B641A8BF8B6A4A66375.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.29.24:069][952]LogFileHelpers: Saving map 'TresureIsland' took 0.145
+[2025.03.27-14.29.24:087][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.819 ms (total: 896.718 ms)
+[2025.03.27-14.29.24:158][952]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.29.24:158][952]LogContentValidation: Enabled validators:
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.29.24:158][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.29.24:159][952]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.29.24:244][958]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.29.24:327][964]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.29.24:838][999]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 341.035828
+[2025.03.27-14.29.24:989][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-14.29.24:989][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 341.171600, Update Interval: 332.668854
+[2025.03.27-14.31.19:177][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.31.19:247][780]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.31.19:262][780]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.31.19:262][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.31.19:262][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.31.19:271][780]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.31.19:272][780]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestABF852A94E7CC806AEA81CAD56301A8A.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.31.19:284][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.211 ms (total: 1.00 sec)
+[2025.03.27-14.31.19:358][780]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.31.19:358][780]LogContentValidation: Enabled validators:
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.31.19:358][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.31.19:358][780]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.31.25:373][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.03.27-14.31.27:280][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.31.27:342][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.31.27:386][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.27-14.31.27:479][467]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.31.27:480][467]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland45168E1F44AF235C8E377E85B2DB6B5F.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.31.27:492][467]LogFileHelpers: Saving map 'TresureIsland' took 0.150
+[2025.03.27-14.31.27:504][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.128 ms (total: 1.22 sec)
+[2025.03.27-14.31.27:570][467]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.31.27:570][467]LogContentValidation: Enabled validators:
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.31.27:570][467]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.31.27:570][467]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.31.28:248][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.31.28:259][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.31.28:259][516]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.31.28:275][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015344s)
+[2025.03.27-14.31.28:275][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.015392s)
+[2025.03.27-14.31.28:292][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.27-14.31.28:293][516]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.31.28:295][516]LogPlayLevel: PIE: World Init took: (0.001747s)
+[2025.03.27-14.31.28:296][516]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.31.28:296][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.31.28:296][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.31.28:296][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.31.28:296][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.31.28:296][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.31.28:298][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.31.28:327][516]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.31.28:327][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.31.28:327][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.31.28:327][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.31.28:327][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.03.27-14.31.28:327][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.03.27-14.31.28:330][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.03.27-14.31.28:330][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.03.27-14.31.28:330][516]LogInit: FAudioDevice initialized with ID 6.
+[2025.03.27-14.31.28:330][516]LogAudio: Display: Audio Device (ID: 6) registered with world 'TresureIsland'.
+[2025.03.27-14.31.28:330][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.27-14.31.28:333][516]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.31.28:342][516]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.31.28
+[2025.03.27-14.31.28:343][516]LogWorld: Bringing up level for play took: 0.009299
+[2025.03.27-14.31.28:346][516]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.03.27-14.31.28:348][516]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.31.28:348][516]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.31.28:348][516]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.31.28:370][516]PIE: Server logged in
+[2025.03.27-14.31.28:372][516]PIE: Play in editor total start time 0,113 seconds.
+[2025.03.27-14.31.34:860][ 80]LogBlueprintUserMessages: [Player_C_0] TreasureChest
+[2025.03.27-14.31.40:840][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.31.40:840][589]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.31.40:841][589]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.31.40:845][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.31.40:849][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.31.40:853][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.31.40:871][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.31.40:873][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.03.27-14.31.40:873][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.27-14.31.40:876][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.03.27-14.31.40:885][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.27-14.31.40:962][590]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.03.27-14.31.58:144][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.31.58:207][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player] ([2] browsable assets)...
+[2025.03.27-14.31.58:221][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player.Player]
+[2025.03.27-14.31.58:221][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player]
+[2025.03.27-14.31.58:221][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset" SILENT=true
+[2025.03.27-14.31.58:243][347]LogSavePackage: Moving output files for package: /Game/Player
+[2025.03.27-14.31.58:244][347]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/Player93409693412E4F7EF23CB49ABF072FD5.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Player.uasset'
+[2025.03.27-14.31.58:253][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.118 ms (total: 1.33 sec)
+[2025.03.27-14.31.58:319][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.31.58:319][347]LogContentValidation: Enabled validators:
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.31.58:319][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.31.58:319][347]AssetCheck: /Game/Player Validating asset
+[2025.03.27-14.31.59:117][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.31.59:117][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.31.59:122][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.31.59:122][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.31.59:171][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.27-14.31.59:183][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.31.59:184][438]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.32.02:436][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.32.02:445][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.32.02:469][749]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.32.02:483][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013786s)
+[2025.03.27-14.32.02:483][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013842s)
+[2025.03.27-14.32.02:504][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.27-14.32.02:508][749]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.32.02:510][749]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2025.03.27-14.32.02:511][749]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.32.02:511][749]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.32.02:511][749]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.32.02:511][749]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.32.02:511][749]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.32.02:511][749]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.32.02:513][749]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.32.02:539][749]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.32.02:539][749]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.32.02:539][749]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.32.02:539][749]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.32.02:539][749]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.27-14.32.02:539][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.27-14.32.02:543][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.27-14.32.02:543][749]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.27-14.32.02:543][749]LogInit: FAudioDevice initialized with ID 7.
+[2025.03.27-14.32.02:543][749]LogAudio: Display: Audio Device (ID: 7) registered with world 'TresureIsland'.
+[2025.03.27-14.32.02:543][749]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.27-14.32.02:546][749]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.32.02:555][749]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.32.02
+[2025.03.27-14.32.02:556][749]LogWorld: Bringing up level for play took: 0.009091
+[2025.03.27-14.32.02:559][749]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.03.27-14.32.02:561][749]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.32.02:561][749]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.32.02:561][749]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.32.02:583][749]PIE: Server logged in
+[2025.03.27-14.32.02:584][749]PIE: Play in editor total start time 0,139 seconds.
+[2025.03.27-14.32.19:270][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.32.19:270][216]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.32.19:270][216]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.32.19:274][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.32.19:278][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.32.19:285][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.32.19:307][216]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.32.19:307][216]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.27-14.32.19:307][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.27-14.32.19:309][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.27-14.32.19:316][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.32.19:321][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.27-14.32.19:400][217]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.03.27-14.32.52:034][623]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.32.52:044][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.32.52:069][623]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.32.52:083][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013650s)
+[2025.03.27-14.32.52:083][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013698s)
+[2025.03.27-14.32.52:101][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.27-14.32.52:103][623]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.32.52:105][623]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2025.03.27-14.32.52:106][623]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.32.52:106][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.32.52:106][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.32.52:106][623]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.32.52:106][623]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.32.52:106][623]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.32.52:108][623]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.32.52:133][623]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.32.52:134][623]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.32.52:134][623]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.32.52:134][623]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.32.52:134][623]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.27-14.32.52:134][623]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.27-14.32.52:137][623]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.27-14.32.52:137][623]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.27-14.32.52:137][623]LogInit: FAudioDevice initialized with ID 8.
+[2025.03.27-14.32.52:137][623]LogAudio: Display: Audio Device (ID: 8) registered with world 'TresureIsland'.
+[2025.03.27-14.32.52:137][623]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.27-14.32.52:139][623]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.32.52:148][623]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.32.52
+[2025.03.27-14.32.52:149][623]LogWorld: Bringing up level for play took: 0.009179
+[2025.03.27-14.32.52:152][623]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.03.27-14.32.52:155][623]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.32.52:155][623]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.32.52:155][623]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.32.52:177][623]PIE: Server logged in
+[2025.03.27-14.32.52:178][623]PIE: Play in editor total start time 0,135 seconds.
+[2025.03.27-14.33.19:236][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.33.19:236][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.33.19:282][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.27-14.33.19:373][696]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.33.19:374][696]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIslandFFA08A684E34A9CB16A44A8D69F6D32E.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.33.19:386][696]LogFileHelpers: Saving map 'TresureIsland' took 0.151
+[2025.03.27-14.33.19:386][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.062 ms (total: 1.48 sec)
+[2025.03.27-14.33.19:395][696]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2025.03.27-14.33.19:395][696]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2025.03.27-14.33.19:396][696]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/UEDPIE_0_TresureIsland.TresureIsland:PersistentLevel.StaticMeshActor_0
+[2025.03.27-14.33.19:396][696]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/UEDPIE_0_TresureIsland.TresureIsland:PersistentLevel.StaticMeshActor_0
+[2025.03.27-14.33.19:406][696]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.33.19:406][696]LogContentValidation: Enabled validators:
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.33.19:406][696]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.33.19:406][696]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.33.20:250][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.33.20:250][751]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.33.20:251][751]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.33.20:255][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.33.20:259][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.33.20:265][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.33.20:287][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.33.20:287][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.27-14.33.20:287][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.27-14.33.20:291][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.27-14.33.20:300][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.27-14.33.20:323][752]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.03.27-14.33.40:882][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.27-14.33.49:278][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.33.49:345][993]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.33.49:359][993]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.33.49:359][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.33.49:359][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.33.49:368][993]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.33.49:368][993]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestA1D75453439B4670F72284BADF5EB1B6.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.33.49:380][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.777 ms (total: 1.59 sec)
+[2025.03.27-14.33.49:452][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.33.49:452][993]LogContentValidation: Enabled validators:
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.33.49:452][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.33.49:452][993]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.34.29:519][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.34.29:581][544]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.34.29:594][544]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.34.29:594][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.34.29:594][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.34.29:603][544]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.34.29:603][544]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestDDE6D4074377D45E0E460DA2E55A715B.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.34.29:614][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.254 ms (total: 1.68 sec)
+[2025.03.27-14.34.29:680][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.34.29:680][544]LogContentValidation: Enabled validators:
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.34.29:680][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.34.29:680][544]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.34.30:564][644]LogBlueprint: Error: [AssetLog] D:\unrealProjects\ThievesOfSeasv2\Content\Actors\TreasureChest.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2025.03.27-14.34.30:572][644]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.27-14.34.30:624][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.27-14.35.01:443][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.641602
+[2025.03.27-14.35.01:610][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-14.35.01:610][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.799866, Update Interval: 302.371277
+[2025.03.27-14.35.19:646][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.03.27-14.35.21:278][317]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.35.21:285][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.35.21:286][317]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.35.21:300][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014011s)
+[2025.03.27-14.35.21:300][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.014056s)
+[2025.03.27-14.35.21:319][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.03.27-14.35.21:321][317]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.35.21:323][317]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2025.03.27-14.35.21:324][317]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.35.21:324][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.35.21:324][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.35.21:324][317]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.35.21:324][317]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.35.21:324][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.35.21:327][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.35.21:354][317]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.35.21:354][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.35.21:354][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.35.21:354][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.35.21:355][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.27-14.35.21:355][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.27-14.35.21:358][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.27-14.35.21:358][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.27-14.35.21:358][317]LogInit: FAudioDevice initialized with ID 9.
+[2025.03.27-14.35.21:358][317]LogAudio: Display: Audio Device (ID: 9) registered with world 'TresureIsland'.
+[2025.03.27-14.35.21:358][317]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.27-14.35.21:402][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.35.21:402][317]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.35.21:411][317]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.35.21
+[2025.03.27-14.35.21:412][317]LogWorld: Bringing up level for play took: 0.010421
+[2025.03.27-14.35.21:415][317]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.03.27-14.35.21:419][317]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.35.21:419][317]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.35.21:419][317]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.35.21:445][317]PIE: Server logged in
+[2025.03.27-14.35.21:446][317]PIE: Play in editor total start time 0,161 seconds.
+[2025.03.27-14.35.59:859][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.35.59:860][570]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.35.59:860][570]LogSlate: Window 'ThievesOfSeasv2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.27-14.35.59:863][570]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.35.59:867][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.35.59:872][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.35.59:878][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.35.59:903][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.35.59:906][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.27-14.35.59:906][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.27-14.35.59:910][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.27-14.35.59:920][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.03.27-14.35.59:940][571]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.03.27-14.40.09:591][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 985.789001
+[2025.03.27-14.40.09:748][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-14.40.09:748][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 985.937500, Update Interval: 311.365692
+[2025.03.27-14.40.19:233][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.40.19:298][514]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.40.19:315][514]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.40.19:315][514]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.40.19:315][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.40.19:324][514]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.40.19:324][514]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest2ABC13C7480FAB6717D0A493EB81E840.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.40.19:335][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.490 ms (total: 1.78 sec)
+[2025.03.27-14.40.19:405][514]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.40.19:405][514]LogContentValidation: Enabled validators:
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.40.19:405][514]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.40.19:405][514]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.40.20:686][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.27-14.40.24:207][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.40.24:265][ 50]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.40.24:279][ 50]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.40.24:279][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.40.24:279][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.40.24:289][ 50]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.40.24:290][ 50]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest71538DB94285CF688C9CC68DCE79ADA3.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.40.24:299][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.845 ms (total: 1.87 sec)
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: Enabled validators:
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.40.24:372][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.40.24:372][ 50]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.40.25:960][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.40.25:968][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.40.25:970][232]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.40.25:983][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014002s)
+[2025.03.27-14.40.25:983][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.014041s)
+[2025.03.27-14.40.26:005][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.03.27-14.40.26:007][232]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.40.26:010][232]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2025.03.27-14.40.26:011][232]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.40.26:011][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.40.26:011][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.40.26:011][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.40.26:011][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.40.26:011][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.40.26:013][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.40.26:041][232]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.40.26:041][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.40.26:041][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.40.26:041][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.40.26:042][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.27-14.40.26:042][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.27-14.40.26:045][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.27-14.40.26:045][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.27-14.40.26:045][232]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.27-14.40.26:045][232]LogAudio: Display: Audio Device (ID: 10) registered with world 'TresureIsland'.
+[2025.03.27-14.40.26:045][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.27-14.40.26:080][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.40.26:081][232]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.40.26:090][232]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.40.26
+[2025.03.27-14.40.26:091][232]LogWorld: Bringing up level for play took: 0.010616
+[2025.03.27-14.40.26:094][232]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.03.27-14.40.26:096][232]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.40.26:096][232]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.40.26:096][232]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.40.26:124][232]PIE: Server logged in
+[2025.03.27-14.40.26:126][232]PIE: Play in editor total start time 0,157 seconds.
+[2025.03.27-14.40.40:299][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.40.40:300][307]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.40.40:300][307]LogSlate: Window 'ThievesOfSeasv2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.27-14.40.40:306][307]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.40.40:311][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.40.40:314][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.40.40:321][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.40.40:342][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.40.40:343][307]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.27-14.40.40:343][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.27-14.40.40:345][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.27-14.40.40:355][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.27-14.40.40:377][308]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.03.27-14.40.44:642][806]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.40.44:696][811]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.41.07:995][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.41.08:061][338]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.41.08:073][338]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.41.08:073][338]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.41.08:073][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.41.08:083][338]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.41.08:084][338]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest8D9C40DB4090C4B451D0B8A46B7FD4B1.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.41.08:094][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.663 ms (total: 1.97 sec)
+[2025.03.27-14.41.08:170][338]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.41.08:170][338]LogContentValidation: Enabled validators:
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.41.08:170][338]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.41.08:170][338]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.41.09:211][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.27-14.41.11:293][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.41.11:372][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.41.11:418][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.27-14.41.11:508][650]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.41.11:509][650]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIslandEE98DDB94729685BAEA448B0033FA731.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.41.11:522][650]LogFileHelpers: Saving map 'TresureIsland' took 0.150
+[2025.03.27-14.41.11:534][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.141 ms (total: 2.21 sec)
+[2025.03.27-14.41.11:601][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.41.11:601][650]LogContentValidation: Enabled validators:
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.41.11:601][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.41.11:601][650]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.41.12:366][717]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.41.12:374][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.41.12:374][717]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.41.12:388][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013906s)
+[2025.03.27-14.41.12:388][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013944s)
+[2025.03.27-14.41.12:406][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.27-14.41.12:407][717]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.41.12:409][717]LogPlayLevel: PIE: World Init took: (0.001806s)
+[2025.03.27-14.41.12:410][717]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.41.12:410][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.41.12:410][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.41.12:410][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.41.12:410][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.41.12:410][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.41.12:412][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.41.12:439][717]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.41.12:440][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.41.12:440][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.41.12:440][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.41.12:440][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.27-14.41.12:440][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.27-14.41.12:443][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.27-14.41.12:443][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.27-14.41.12:443][717]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.27-14.41.12:443][717]LogAudio: Display: Audio Device (ID: 11) registered with world 'TresureIsland'.
+[2025.03.27-14.41.12:443][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.27-14.41.12:446][717]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.41.12:455][717]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.41.12
+[2025.03.27-14.41.12:455][717]LogWorld: Bringing up level for play took: 0.009159
+[2025.03.27-14.41.12:458][717]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.03.27-14.41.12:460][717]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.41.12:460][717]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.41.12:461][717]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.41.12:483][717]PIE: Server logged in
+[2025.03.27-14.41.12:484][717]PIE: Play in editor total start time 0,111 seconds.
+[2025.03.27-14.41.13:538][809]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.41.13:622][816]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.41.21:770][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.41.21:770][549]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.41.21:770][549]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.41.21:774][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.41.21:778][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.41.21:783][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.41.21:809][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.41.21:811][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.27-14.41.21:811][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.27-14.41.21:816][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.27-14.41.21:831][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.27-14.41.21:855][550]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.03.27-14.42.01:502][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.42.01:565][879]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.42.01:576][879]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.42.01:576][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.42.01:576][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.42.01:585][879]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.42.01:586][879]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest84F3EEB0447A63A4BC23688455D3BA9E.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.42.01:597][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.796 ms (total: 2.31 sec)
+[2025.03.27-14.42.01:669][879]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.42.01:669][879]LogContentValidation: Enabled validators:
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.42.01:669][879]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.42.01:670][879]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.42.02:759][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.03.27-14.42.05:088][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.42.05:170][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.42.05:213][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.27-14.42.05:306][214]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.42.05:306][214]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland1873098646DA1D307FA657BBFCCE235F.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.42.05:319][214]LogFileHelpers: Saving map 'TresureIsland' took 0.149
+[2025.03.27-14.42.05:329][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 241.580 ms (total: 2.55 sec)
+[2025.03.27-14.42.05:393][214]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.42.05:393][214]LogContentValidation: Enabled validators:
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.42.05:393][214]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.42.05:393][214]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.42.06:147][280]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.42.06:158][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.42.06:179][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.42.06:193][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013373s)
+[2025.03.27-14.42.06:193][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013420s)
+[2025.03.27-14.42.06:211][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.27-14.42.06:212][280]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.42.06:214][280]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2025.03.27-14.42.06:215][280]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.42.06:215][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.42.06:215][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.42.06:215][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.42.06:215][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.42.06:215][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.42.06:217][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.42.06:244][280]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.42.06:244][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.42.06:245][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.42.06:245][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.42.06:245][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.27-14.42.06:245][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.27-14.42.06:249][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.27-14.42.06:249][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.27-14.42.06:249][280]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.27-14.42.06:249][280]LogAudio: Display: Audio Device (ID: 12) registered with world 'TresureIsland'.
+[2025.03.27-14.42.06:249][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.27-14.42.06:252][280]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.42.06:260][280]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.42.06
+[2025.03.27-14.42.06:260][280]LogWorld: Bringing up level for play took: 0.008780
+[2025.03.27-14.42.06:263][280]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.03.27-14.42.06:265][280]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.42.06:265][280]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.42.06:265][280]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.42.06:287][280]PIE: Server logged in
+[2025.03.27-14.42.06:288][280]PIE: Play in editor total start time 0,13 seconds.
+[2025.03.27-14.42.16:589][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.42.16:589][217]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.42.16:590][217]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.42.16:594][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.42.16:597][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.42.16:603][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.42.16:622][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.42.16:623][217]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.27-14.42.16:623][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.27-14.42.16:626][217]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.27-14.42.16:636][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.27-14.42.16:699][219]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.03.27-14.42.21:129][567]Cmd: DELETE
+[2025.03.27-14.42.21:129][567]Cmd: ACTOR DELETE
+[2025.03.27-14.42.21:140][567]LogEditorActor: Deleted Actor: TreasureChest_C
+[2025.03.27-14.42.21:164][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.27-14.42.21:166][567]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.03.27-14.42.22:437][664]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.22:437][664]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.22:447][664]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_4
+[2025.03.27-14.42.22:457][664]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_4
+[2025.03.27-14.42.22:515][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-14.42.22:517][664]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2025.03.27-14.42.22:582][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.22:582][668]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.22:591][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_5
+[2025.03.27-14.42.22:602][668]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_5
+[2025.03.27-14.42.23:231][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.27-14.42.23:233][694]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.27-14.42.23:239][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.23:239][694]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/TreasureChest.TreasureChest_C
+[2025.03.27-14.42.23:249][694]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_6
+[2025.03.27-14.42.23:260][694]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/TreasureChest.TreasureChest as actor: TreasureChest_C /Game/TresureIsland.TresureIsland:PersistentLevel.TreasureChest_C_6
+[2025.03.27-14.42.30:154][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.42.30:230][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.42.30:277][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.27-14.42.30:367][177]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.42.30:368][177]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIslandBA05CBCE4A6509035B40F0892CD6275C.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.42.30:380][177]LogFileHelpers: Saving map 'TresureIsland' took 0.151
+[2025.03.27-14.42.30:394][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.276 ms (total: 2.79 sec)
+[2025.03.27-14.42.30:467][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.42.30:467][177]LogContentValidation: Enabled validators:
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.42.30:467][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.42.30:468][177]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.42.31:098][224]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.42.31:109][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.42.31:109][224]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.42.31:127][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019400s)
+[2025.03.27-14.42.31:127][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.019468s)
+[2025.03.27-14.42.31:145][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.27-14.42.31:146][224]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.42.31:148][224]LogPlayLevel: PIE: World Init took: (0.001855s)
+[2025.03.27-14.42.31:148][224]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.27-14.42.31:148][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.42.31:148][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.42.31:148][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.42.31:148][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.42.31:149][224]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.42.31:149][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.42.31:149][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.42.31:149][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.42.31:149][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.42.31:149][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.42.31:149][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.42.31:151][224]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.42.31:177][224]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.42.31:177][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.42.31:177][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.42.31:177][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.42.31:177][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.27-14.42.31:177][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.27-14.42.31:180][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.27-14.42.31:180][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.27-14.42.31:180][224]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.27-14.42.31:180][224]LogAudio: Display: Audio Device (ID: 13) registered with world 'TresureIsland'.
+[2025.03.27-14.42.31:180][224]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.27-14.42.31:183][224]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.42.31:191][224]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.42.31
+[2025.03.27-14.42.31:192][224]LogWorld: Bringing up level for play took: 0.008671
+[2025.03.27-14.42.31:195][224]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.03.27-14.42.31:199][224]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.42.31:199][224]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.42.31:199][224]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.42.31:221][224]PIE: Server logged in
+[2025.03.27-14.42.31:222][224]PIE: Play in editor total start time 0,114 seconds.
+[2025.03.27-14.42.42:960][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.42.42:960][296]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.42.42:960][296]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.42.42:964][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.42.42:968][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.42.42:974][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.42.42:992][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.42.42:993][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.27-14.42.42:993][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.27-14.42.42:996][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.27-14.42.43:007][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.03.27-14.42.43:071][297]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.03.27-14.43.01:869][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.43.01:878][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.43.01:909][143]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.43.01:923][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013466s)
+[2025.03.27-14.43.01:923][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013516s)
+[2025.03.27-14.43.01:949][143]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2025.03.27-14.43.01:951][143]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.43.01:953][143]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2025.03.27-14.43.01:954][143]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.43.01:954][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.43.01:954][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.43.01:954][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.43.01:954][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.43.01:954][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.43.01:957][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.43.01:982][143]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.43.01:982][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.43.01:983][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.43.01:983][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.43.01:983][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.27-14.43.01:983][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.27-14.43.01:986][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.27-14.43.01:986][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.27-14.43.01:986][143]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.27-14.43.01:986][143]LogAudio: Display: Audio Device (ID: 14) registered with world 'TresureIsland'.
+[2025.03.27-14.43.01:986][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.27-14.43.01:989][143]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.43.01:998][143]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.03.27-15.43.01
+[2025.03.27-14.43.01:998][143]LogWorld: Bringing up level for play took: 0.009610
+[2025.03.27-14.43.02:001][143]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.27-14.43.02:004][143]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.43.02:004][143]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.43.02:004][143]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.43.02:027][143]PIE: Server logged in
+[2025.03.27-14.43.02:028][143]PIE: Play in editor total start time 0,15 seconds.
+[2025.03.27-14.43.33:430][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.43.33:431][383]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.43.33:431][383]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.43.33:435][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.43.33:440][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.43.33:447][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.43.33:464][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.43.33:465][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.27-14.43.33:465][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.27-14.43.33:467][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.27-14.43.33:477][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.27-14.43.33:521][384]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.27-14.45.30:956][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1307.147827
+[2025.03.27-14.45.31:123][166]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-14.45.31:123][166]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1307.299438, Update Interval: 329.557800
+[2025.03.27-14.45.45:959][ 36]LogSlate: Took 0.007862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.27-14.46.52:818][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.46.52:888][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.46.52:902][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.46.52:902][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.46.52:902][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.46.52:913][960]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.46.52:913][960]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest82516CD14B04E379BE45D0AB33704BFF.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.46.52:923][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.211 ms (total: 2.89 sec)
+[2025.03.27-14.46.52:998][960]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.46.52:998][960]LogContentValidation: Enabled validators:
+[2025.03.27-14.46.52:998][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.46.52:998][960]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.46.52:998][960]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.46.52:998][960]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.46.52:999][960]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.46.52:999][960]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.46.52:999][960]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.46.54:121][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.03.27-14.46.56:469][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.46.56:477][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.46.56:477][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.46.56:491][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014007s)
+[2025.03.27-14.46.56:491][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.014048s)
+[2025.03.27-14.46.56:510][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.27-14.46.56:516][149]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.46.56:518][149]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2025.03.27-14.46.56:518][149]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.46.56:518][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.46.56:518][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.46.56:518][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.46.56:518][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.46.56:518][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.46.56:521][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.46.56:549][149]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.46.56:549][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.46.56:549][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.46.56:549][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.46.56:550][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.03.27-14.46.56:550][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.03.27-14.46.56:553][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.03.27-14.46.56:553][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.03.27-14.46.56:553][149]LogInit: FAudioDevice initialized with ID 15.
+[2025.03.27-14.46.56:553][149]LogAudio: Display: Audio Device (ID: 15) registered with world 'TresureIsland'.
+[2025.03.27-14.46.56:553][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.27-14.46.56:555][149]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.46.56:564][149]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 60) at 2025.03.27-15.46.56
+[2025.03.27-14.46.56:564][149]LogWorld: Bringing up level for play took: 0.009230
+[2025.03.27-14.46.56:568][149]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.03.27-14.46.56:570][149]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.46.56:570][149]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.46.56:570][149]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.46.56:593][149]PIE: Server logged in
+[2025.03.27-14.46.56:595][149]PIE: Play in editor total start time 0,118 seconds.
+[2025.03.27-14.47.06:619][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.47.06:619][747]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.47.06:619][747]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.47.06:623][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.47.06:628][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.47.06:634][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.47.06:653][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.47.06:654][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.27-14.47.06:654][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.27-14.47.06:656][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.27-14.47.06:662][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.47.06:667][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.27-14.47.06:715][748]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.03.27-14.47.07:724][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.47.07:795][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.47.07:838][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.27-14.47.07:928][806]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.47.07:929][806]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland44A701FC4569A67C98D611BE8C510F88.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.47.07:941][806]LogFileHelpers: Saving map 'TresureIsland' took 0.147
+[2025.03.27-14.47.07:954][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.707 ms (total: 3.12 sec)
+[2025.03.27-14.47.08:018][806]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.47.08:018][806]LogContentValidation: Enabled validators:
+[2025.03.27-14.47.08:018][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.47.08:018][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.47.08:019][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.47.08:019][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.47.08:019][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.47.08:019][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.47.08:019][806]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.47.20:191][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.47.20:251][529]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.47.20:268][529]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.47.20:268][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.47.20:268][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.47.20:280][529]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.47.20:280][529]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChest44FF28B7409A73AAD5B6A0B51D752454.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.47.20:291][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.424 ms (total: 3.22 sec)
+[2025.03.27-14.47.20:364][529]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.47.20:364][529]LogContentValidation: Enabled validators:
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.47.20:364][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.47.20:364][529]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.48.00:656][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.48.00:718][916]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.48.00:735][916]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.48.00:735][916]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.48.00:735][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.48.00:745][916]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.48.00:745][916]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestB3ACA31841250AB3DD5F06AF024984C1.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.48.00:757][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.348 ms (total: 3.32 sec)
+[2025.03.27-14.48.00:835][916]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.48.00:835][916]LogContentValidation: Enabled validators:
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.48.00:835][916]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.48.00:835][916]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.48.01:913][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.27-14.48.03:603][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.48.03:612][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.48.03:612][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.48.03:626][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014283s)
+[2025.03.27-14.48.03:626][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.014321s)
+[2025.03.27-14.48.03:648][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.27-14.48.03:654][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.48.03:656][ 66]LogPlayLevel: PIE: World Init took: (0.001877s)
+[2025.03.27-14.48.03:657][ 66]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.48.03:657][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.48.03:657][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.48.03:657][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.48.03:657][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.48.03:657][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.48.03:659][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.48.03:685][ 66]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.48.03:685][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.48.03:685][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.48.03:685][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.48.03:686][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.03.27-14.48.03:686][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.03.27-14.48.03:689][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.03.27-14.48.03:689][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.03.27-14.48.03:689][ 66]LogInit: FAudioDevice initialized with ID 16.
+[2025.03.27-14.48.03:689][ 66]LogAudio: Display: Audio Device (ID: 16) registered with world 'TresureIsland'.
+[2025.03.27-14.48.03:689][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.27-14.48.03:692][ 66]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.48.03:701][ 66]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 60) at 2025.03.27-15.48.03
+[2025.03.27-14.48.03:701][ 66]LogWorld: Bringing up level for play took: 0.009519
+[2025.03.27-14.48.03:704][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.03.27-14.48.03:706][ 66]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.48.03:706][ 66]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.48.03:706][ 66]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.48.03:731][ 66]PIE: Server logged in
+[2025.03.27-14.48.03:732][ 66]PIE: Play in editor total start time 0,12 seconds.
+[2025.03.27-14.48.30:000][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.48.30:000][637]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.48.30:000][637]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.48.30:004][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.48.30:008][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.48.30:014][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.48.30:031][637]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.48.30:032][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.27-14.48.30:032][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.27-14.48.30:035][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.27-14.48.30:039][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.48.30:044][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.03.27-14.48.30:086][638]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.03.27-14.48.30:530][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.48.30:602][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.48.30:645][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.27-14.48.30:733][662]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.48.30:734][662]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland3B8C67A243FBAA437B782DBBA4235F04.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.48.30:746][662]LogFileHelpers: Saving map 'TresureIsland' took 0.144
+[2025.03.27-14.48.30:758][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.971 ms (total: 3.55 sec)
+[2025.03.27-14.48.30:832][662]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.48.30:832][662]LogContentValidation: Enabled validators:
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.48.30:832][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.48.30:832][662]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.48.36:706][  7]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.48.36:785][ 12]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.49.21:295][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.49.21:357][669]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/TreasureChest] ([2] browsable assets)...
+[2025.03.27-14.49.21:373][669]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/TreasureChest.TreasureChest]
+[2025.03.27-14.49.21:373][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/TreasureChest]
+[2025.03.27-14.49.21:373][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/TreasureChest" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset" SILENT=true
+[2025.03.27-14.49.21:384][669]LogSavePackage: Moving output files for package: /Game/Actors/TreasureChest
+[2025.03.27-14.49.21:384][669]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TreasureChestB8928CBF4606530FC37A9F9DEBA2BF9F.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/Actors/TreasureChest.uasset'
+[2025.03.27-14.49.21:396][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.588 ms (total: 3.65 sec)
+[2025.03.27-14.49.21:467][669]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.49.21:467][669]LogContentValidation: Enabled validators:
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.49.21:467][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.49.21:467][669]AssetCheck: /Game/Actors/TreasureChest Validating asset
+[2025.03.27-14.49.22:041][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.27-14.49.24:293][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.27-14.49.24:302][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-14.49.24:329][820]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.49.24:342][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013429s)
+[2025.03.27-14.49.24:342][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TresureIsland.TresureIsland to /Game/UEDPIE_0_TresureIsland.TresureIsland (0.013476s)
+[2025.03.27-14.49.24:362][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.03.27-14.49.24:369][820]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.03.27-14.49.24:371][820]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2025.03.27-14.49.24:371][820]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-14.49.24:371][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.27-14.49.24:371][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-14.49.24:371][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-14.49.24:372][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-14.49.24:372][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-14.49.24:374][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-14.49.24:399][820]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2025.03.27-14.49.24:400][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-14.49.24:400][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-14.49.24:400][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-14.49.24:400][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.27-14.49.24:400][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.27-14.49.24:409][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.27-14.49.24:409][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.27-14.49.24:409][820]LogInit: FAudioDevice initialized with ID 17.
+[2025.03.27-14.49.24:409][820]LogAudio: Display: Audio Device (ID: 17) registered with world 'TresureIsland'.
+[2025.03.27-14.49.24:409][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.27-14.49.24:412][820]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.03.27-14.49.24:420][820]LogWorld: Bringing World /Game/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 60) at 2025.03.27-15.49.24
+[2025.03.27-14.49.24:421][820]LogWorld: Bringing up level for play took: 0.009175
+[2025.03.27-14.49.24:424][820]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.03.27-14.49.24:426][820]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.03.27-14.49.24:426][820]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.03.27-14.49.24:426][820]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.03.27-14.49.24:450][820]PIE: Server logged in
+[2025.03.27-14.49.24:451][820]PIE: Play in editor total start time 0,15 seconds.
+[2025.03.27-14.49.45:735][ 95]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.49.45:832][101]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.03.27-14.51.04:620][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.51.04:620][824]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TresureIsland
+[2025.03.27-14.51.04:620][824]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.04:624][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.04:628][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-14.51.04:633][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.04:653][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.27-14.51.04:654][824]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.27-14.51.04:654][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.27-14.51.04:657][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.27-14.51.04:662][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-14.51.04:668][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.27-14.51.04:711][825]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2025.03.27-14.51.05:666][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.27-14.51.05:737][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TresureIsland" FILE="../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.27-14.51.05:779][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.27-14.51.05:870][880]LogSavePackage: Moving output files for package: /Game/TresureIsland
+[2025.03.27-14.51.05:870][880]LogSavePackage: Moving '../../../../../unrealProjects/ThievesOfSeasv2/Saved/TresureIsland0BFAF71D4B020FD3F1190D953CFAB769.tmp' to '../../../../../unrealProjects/ThievesOfSeasv2/Content/TresureIsland.umap'
+[2025.03.27-14.51.05:883][880]LogFileHelpers: Saving map 'TresureIsland' took 0.146
+[2025.03.27-14.51.05:894][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.992 ms (total: 3.88 sec)
+[2025.03.27-14.51.05:965][880]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.27-14.51.05:965][880]LogContentValidation: Enabled validators:
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.27-14.51.05:965][880]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.27-14.51.05:965][880]AssetCheck: /Game/TresureIsland Validating asset
+[2025.03.27-14.51.10:162][119]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.10:162][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.10:257][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.03.27-14.51.10:909][155]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.27-14.51.10:909][155]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.10:909][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.10:974][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.03.27-14.51.12:188][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.27-14.51.12:242][226]LogStall: Shutdown...
+[2025.03.27-14.51.12:242][226]LogStall: Shutdown complete.
+[2025.03.27-14.51.12:291][226]LogSlate: Window 'ThievesOfSeasv2 - Unreal Editor' being destroyed
+[2025.03.27-14.51.12:371][226]Cmd: QUIT_EDITOR
+[2025.03.27-14.51.12:372][227]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.27-14.51.12:378][227]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.27-14.51.12:378][227]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.27-14.51.12:378][227]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.27-14.51.12:382][227]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:382][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:393][227]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.03.27-14.51.12:393][227]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.27-14.51.12:398][227]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:398][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:401][227]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:402][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:405][227]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:405][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:410][227]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:410][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:413][227]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:413][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:416][227]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:416][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:420][227]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:420][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:423][227]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:423][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:427][227]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:427][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:430][227]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-14.51.12:430][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-14.51.12:433][227]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.03.27-14.51.12:438][227]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.03.27-14.51.12:438][227]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.03.27-14.51.12:438][227]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.03.27-14.51.13:271][227]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.27-14.51.13:272][227]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.27-14.51.13:272][227]LogAudio: Display: Audio Device unregistered from world 'TresureIsland'.
+[2025.03.27-14.51.13:272][227]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.03.27-14.51.13:272][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.27-14.51.13:274][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.27-14.51.13:302][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.03.27-14.51.13:303][227]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.27-14.51.13:303][227]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.03.27-14.51.13:305][227]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.27-14.51.13:306][227]LogExit: Preparing to exit.
+[2025.03.27-14.51.13:340][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:350][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:351][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:351][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:351][227]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.13:351][227]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.03.27-14.51.14:335][227]LogEditorDataStorage: Deinitializing
+[2025.03.27-14.51.14:501][227]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.27-14.51.14:514][227]LogExit: Editor shut down
+[2025.03.27-14.51.14:516][227]LogExit: Transaction tracking system shut down
+[2025.03.27-14.51.14:625][227]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 4.
+[2025.03.27-14.51.14:642][227]LogExit: Object subsystem successfully closed.
+[2025.03.27-14.51.14:663][227]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.27-14.51.15:321][227]LogMemoryProfiler: Shutdown
+[2025.03.27-14.51.15:321][227]LogNetworkingProfiler: Shutdown
+[2025.03.27-14.51.15:321][227]LoadingProfiler: Shutdown
+[2025.03.27-14.51.15:321][227]LogTimingProfiler: Shutdown
+[2025.03.27-14.51.15:679][227]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.03.27-14.51.15:705][227]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.27-14.51.15:705][227]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF8F6C499-450C-1131-8AD7-1983891F4FC4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=b62b07d64f5c3380e730dcbd2f8e82f5%7C48f462a620bd4aca9d29e26dfaa45d66%7C58ecea58-4bc3-4f4b-a7c5-5beaea2bbf9a&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.27-14.51.16:238][227]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.27-14.51.16:243][227]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.27-14.51.16:243][227]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.27-14.51.16:243][227]RenderDocPlugin: plugin has been unloaded.
+[2025.03.27-14.51.16:245][227]LogXGEController: Cleaning working directory: C:/Users/pweso/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.03.27-14.51.16:247][227]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.27-14.51.16:247][227]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.27-14.51.16:247][227]LogPakFile: Destroying PakPlatformFile
+[2025.03.27-14.51.16:448][227]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.27-14.51.16:485][227]LogExit: Exiting.
+[2025.03.27-14.51.16:517][227]Log file closed, 03/27/25 15:51:16

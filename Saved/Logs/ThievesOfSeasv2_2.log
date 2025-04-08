@@ -1500,3 +1500,125 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.08-18.33.48:124][957]LogSlate: Window 'Dziennik komunikatów' being destroyed
 [2025.04.08-18.33.48:133][957]LogSlate: Window 'Dziennik komunikatów' being destroyed
 [2025.04.08-18.34.11:471][541]LogDerivedDataCache: C:/Users/pweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.08-18.38.03:212][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.957428
+[2025.04.08-18.38.04:212][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.38.04:212][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 338.624573, Update Interval: 348.896149
+[2025.04.08-18.42.51:411][100]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.43.01:560][130]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.43.42:455][253]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.43.54:652][289]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.43.55:658][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 690.402649
+[2025.04.08-18.43.56:656][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.43.56:656][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 691.066528, Update Interval: 310.041809
+[2025.04.08-18.44.20:252][366]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.44.40:762][427]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.44.59:452][483]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.45.22:055][551]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.45.57:447][657]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.46.19:484][723]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.46.33:115][764]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.46.49:616][814]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.47.01:846][850]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.47.24:948][919]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.47.59:985][ 24]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.48.22:381][ 91]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.48.44:393][157]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.48.58:141][198]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.49.10:812][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1005.556396
+[2025.04.08-18.49.11:815][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.49.11:815][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1006.225525, Update Interval: 334.360779
+[2025.04.08-18.49.14:449][247]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.49.34:432][307]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.49.54:626][368]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.50.14:056][426]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.50.37:704][497]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.51.07:222][585]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.51.36:456][673]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.52.08:837][770]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.52.45:199][879]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.53.02:880][932]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.53.31:490][ 18]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.53.50:536][ 75]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.54.11:811][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.54.26:512][183]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.54.58:959][280]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.54.59:963][283]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1354.706665
+[2025.04.08-18.55.00:962][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-18.55.00:962][287]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1355.374023, Update Interval: 328.878448
+[2025.04.08-18.55.43:830][415]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.56.03:177][473]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.56.22:434][531]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.56.42:580][591]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.57.24:475][717]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-18.57.42:527][771]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.08-19.00.56:001][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1710.744629
+[2025.04.08-19.00.57:001][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.00.57:001][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1711.409912, Update Interval: 326.950287
+[2025.04.08-19.07.19:636][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2094.379150
+[2025.04.08-19.07.20:636][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.07.20:636][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2095.050293, Update Interval: 314.612274
+[2025.04.08-19.13.09:678][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2444.417725
+[2025.04.08-19.13.10:679][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.13.10:679][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2445.084961, Update Interval: 353.893250
+[2025.04.08-19.19.35:970][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2830.712402
+[2025.04.08-19.19.36:968][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.19.36:968][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2831.378174, Update Interval: 307.474579
+[2025.04.08-19.25.28:605][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3183.353027
+[2025.04.08-19.25.29:622][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.25.29:622][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3184.019531, Update Interval: 314.200256
+[2025.04.08-19.31.18:639][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3533.383545
+[2025.04.08-19.31.19:641][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.31.19:641][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3534.052734, Update Interval: 330.995209
+[2025.04.08-19.34.11:472][302]LogDerivedDataCache: C:/Users/pweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.08-19.37.35:778][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3910.524902
+[2025.04.08-19.37.36:777][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.37.36:777][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3911.192139, Update Interval: 351.252777
+[2025.04.08-19.44.11:843][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4306.584961
+[2025.04.08-19.44.12:844][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.44.12:844][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4307.259277, Update Interval: 340.180054
+[2025.04.08-19.50.24:778][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4679.522949
+[2025.04.08-19.50.25:781][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.50.25:781][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4680.190430, Update Interval: 341.427032
+[2025.04.08-19.57.02:892][405]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5077.633301
+[2025.04.08-19.57.03:893][408]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-19.57.03:893][408]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5078.304199, Update Interval: 314.187439
+[2025.04.08-20.03.17:606][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5452.349121
+[2025.04.08-20.03.18:603][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.03.18:603][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5453.015137, Update Interval: 323.152557
+[2025.04.08-20.09.36:221][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5830.972656
+[2025.04.08-20.09.37:221][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.09.37:222][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5831.638672, Update Interval: 352.875153
+[2025.04.08-20.16.15:443][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6230.200684
+[2025.04.08-20.16.16:443][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.16.16:443][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6230.872559, Update Interval: 300.781891
+[2025.04.08-20.21.54:879][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6569.640625
+[2025.04.08-20.21.55:883][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.21.55:883][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6570.311035, Update Interval: 306.562714
+[2025.04.08-20.27.47:241][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6922.008789
+[2025.04.08-20.27.48:247][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.27.48:247][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6922.688965, Update Interval: 347.638184
+[2025.04.08-20.30.55:442][491]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 48f...d66
+[2025.04.08-20.30.55:443][491]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.93 RefreshExpires: 1.551e+07
+[2025.04.08-20.30.56:443][495]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 48f...d66 Access[Expires: 2025.04.08-22.30.56 Remaining: 7200.23] Refresh[Expires: 2025-10-05T09:50:05.154Z Remaining: 15513549.15] State: Valid
+[2025.04.08-20.34.11:488][ 78]LogDerivedDataCache: C:/Users/pweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.010 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.08-20.34.24:803][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7319.572266
+[2025.04.08-20.34.26:140][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.34.26:140][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7320.575684, Update Interval: 327.671753
+[2025.04.08-20.40.52:989][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7707.760254
+[2025.04.08-20.40.53:990][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.40.53:990][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7708.431641, Update Interval: 309.069489
+[2025.04.08-20.46.54:264][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8069.037598
+[2025.04.08-20.46.55:262][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.46.55:262][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8069.699707, Update Interval: 341.622986
+[2025.04.08-20.53.31:475][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8466.248047
+[2025.04.08-20.53.32:483][540]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-20.53.32:483][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8466.914062, Update Interval: 348.562866
+[2025.04.08-21.00.03:433][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8858.201172
+[2025.04.08-21.00.04:435][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-21.00.04:435][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8858.869141, Update Interval: 305.460358
+[2025.04.08-21.06.00:855][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9215.614258
+[2025.04.08-21.06.01:856][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-21.06.01:856][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9216.279297, Update Interval: 305.524475
+[2025.04.08-21.11.47:175][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9561.920898
+[2025.04.08-21.11.48:193][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.08-21.11.48:193][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9562.597656, Update Interval: 300.261841

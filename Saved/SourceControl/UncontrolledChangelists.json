@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UE_pro/ThievesOfSeasv2/Content/SKM_Pirate_Full_V1_CtrlRig_Take1.uasset",
+				"D:/UE_pro/ThievesOfSeasv2/Content/NewMap.umap",
+				"D:/UE_pro/ThievesOfSeasv2/Content/Animations/SK_old_shovel_Sequence.uasset",
 				"D:/unrealProjects/ThievesOfSeasv2/Content/Map/Foliage/Trees/A_Coconut_Tree.uasset",
 				"D:/unrealProjects/ThievesOfSeasv2/Content/Map/Foliage/Trees/AF_coconut_tree2.uasset",
 				"D:/unrealProjects/ThievesOfSeasv2/Content/Map/Foliage/Trees/tmp/A_Coconut_Tree.uasset",

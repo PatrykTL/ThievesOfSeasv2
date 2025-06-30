@@ -1551,3 +1551,151 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.30-08.26.28:446][145]Cmd: SELECT NONE
 [2025.06.30-08.26.30:056][184]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.06.30-08.27.00:932][ 57]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.30-08.28.44:107][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 400.811584
+[2025.06.30-08.28.45:107][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-08.28.45:107][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 401.480499, Update Interval: 351.174042
+[2025.06.30-08.34.38:610][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 755.314575
+[2025.06.30-08.34.39:614][810]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-08.34.39:614][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 755.980530, Update Interval: 344.517944
+[2025.06.30-08.38.26:957][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.30-08.38.26:973][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.30-08.38.26:973][542]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TresureIsland
+[2025.06.30-08.38.27:065][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091992s)
+[2025.06.30-08.38.27:065][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TresureIsland.TresureIsland to /Game/Map/UEDPIE_0_TresureIsland.TresureIsland (0.092046s)
+[2025.06.30-08.38.27:083][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.30-08.38.27:084][542]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.06.30-08.38.27:086][542]LogPlayLevel: PIE: World Init took: (0.002184s)
+[2025.06.30-08.38.27:088][542]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.30-08.38.27:088][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.30-08.38.27:088][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.30-08.38.27:088][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.30-08.38.27:088][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.30-08.38.27:088][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.30-08.38.27:093][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.30-08.38.27:121][542]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2025.06.30-08.38.27:122][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.30-08.38.27:122][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.30-08.38.27:122][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.30-08.38.27:123][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.06.30-08.38.27:123][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.06.30-08.38.27:125][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.06.30-08.38.27:125][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.06.30-08.38.27:125][542]LogInit: FAudioDevice initialized with ID 3.
+[2025.06.30-08.38.27:125][542]LogAudio: Display: Audio Device (ID: 3) registered with world 'TresureIsland'.
+[2025.06.30-08.38.27:126][542]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.30-08.38.27:129][542]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.06.30-08.38.27:154][542]LogWorld: Bringing World /Game/Map/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.06.30-10.38.27
+[2025.06.30-08.38.27:155][542]LogWorld: Bringing up level for play took: 0.025272
+[2025.06.30-08.38.27:158][542]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.06.30-08.38.27:161][542]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.06.30-08.38.27:161][542]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.06.30-08.38.27:161][542]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'SKM_Pirate_Full_V1'
+[2025.06.30-08.38.27:175][542]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (EnemyController_C_0)
+[2025.06.30-08.38.27:176][542]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Player.Player_C:ExecuteUbergraph_Player'!
+[2025.06.30-08.38.27:176][542]LogScript: Warning: Script Msg called by: Player_C /Game/Map/UEDPIE_0_TresureIsland.TresureIsland:PersistentLevel.Player_C_0
+[2025.06.30-08.38.27:177][542]PIE: Server logged in
+[2025.06.30-08.38.27:178][542]PIE: Play in editor total start time 0,205 seconds.
+[2025.06.30-08.38.28:895][586]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Player.Player_C:ExecuteUbergraph_Player'!
+[2025.06.30-08.38.28:895][586]LogScript: Warning: Script Msg called by: Player_C /Game/Map/UEDPIE_0_TresureIsland.TresureIsland:PersistentLevel.Player_C_0
+[2025.06.30-08.38.29:043][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.30-08.38.29:043][589]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TresureIsland
+[2025.06.30-08.38.29:044][589]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.38.29:050][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.38.29:079][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.30-08.38.29:083][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.38.29:096][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.30-08.38.29:098][589]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.30-08.38.29:098][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.06.30-08.38.29:100][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.06.30-08.38.29:113][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.06.30-08.38.29:152][590]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.06.30-08.38.29:753][606]LogSlate: Took 0.008717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.30-08.38.29:844][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.06.30-08.38.29:856][607]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.06.30-08.38.29:856][607]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.06.30-08.38.33:389][702]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player.Player
+[2025.06.30-08.38.33:389][702]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.06.30-08.38.33:478][702]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.30-08.38.35:070][702]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2025.06.30-08.38.35:070][702]LogSkeletalMesh: Display: OnRegister[/Game/My_Skeleton_Folder/SKM_Pirate_Full_V1.SKM_Pirate_Full_V1]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2025.06.30-08.38.35:085][702]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.30-08.38.35:942][703]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.06.30-08.38.36:056][705]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.06.30-08.38.40:020][906]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2025.06.30-08.40.30:465][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1107.166992
+[2025.06.30-08.40.31:480][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-08.40.31:480][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1107.849365, Update Interval: 358.492981
+[2025.06.30-08.45.38:826][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.06.30-08.45.38:970][599]LogStall: Shutdown...
+[2025.06.30-08.45.38:970][599]LogStall: Shutdown complete.
+[2025.06.30-08.45.39:112][599]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.45.39:112][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.45.39:240][599]LogSlate: Window 'ThievesOfSeasv2 - Unreal Editor' being destroyed
+[2025.06.30-08.45.39:355][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.06.30-08.45.39:360][599]Cmd: QUIT_EDITOR
+[2025.06.30-08.45.39:360][600]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.30-08.45.39:374][600]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.30-08.45.39:374][600]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.30-08.45.39:374][600]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.30-08.45.39:386][600]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.45.39:386][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.45.39:418][600]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.30-08.45.39:418][600]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.30-08.45.39:426][600]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.45.39:427][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.45.39:432][600]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.45.39:432][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.45.39:437][600]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-08.45.39:437][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-08.45.39:440][600]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.30-08.45.39:444][600]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.30-08.45.39:444][600]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.30-08.45.39:444][600]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.30-08.45.40:262][600]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.30-08.45.40:262][600]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.30-08.45.40:262][600]LogAudio: Display: Audio Device unregistered from world 'TresureIsland'.
+[2025.06.30-08.45.40:262][600]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.30-08.45.40:262][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.30-08.45.40:265][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.30-08.45.40:303][600]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.30-08.45.40:303][600]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.30-08.45.40:304][600]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.06.30-08.45.40:306][600]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.30-08.45.40:306][600]LogExit: Preparing to exit.
+[2025.06.30-08.45.40:342][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.40:347][600]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.30-08.45.41:480][600]LogEditorDataStorage: Deinitializing
+[2025.06.30-08.45.41:670][600]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.30-08.45.41:693][600]LogExit: Editor shut down
+[2025.06.30-08.45.41:696][600]LogExit: Transaction tracking system shut down
+[2025.06.30-08.45.41:899][600]LogExit: Object subsystem successfully closed.
+[2025.06.30-08.45.41:977][600]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.30-08.45.42:540][600]LogMemoryProfiler: Shutdown
+[2025.06.30-08.45.42:540][600]LogNetworkingProfiler: Shutdown
+[2025.06.30-08.45.42:540][600]LoadingProfiler: Shutdown
+[2025.06.30-08.45.42:540][600]LogTimingProfiler: Shutdown
+[2025.06.30-08.45.42:930][600]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.30-08.45.42:930][600]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.30-08.45.42:930][600]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.30-08.45.42:931][600]RenderDocPlugin: plugin has been unloaded.
+[2025.06.30-08.45.42:962][600]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.30-08.45.42:962][600]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10E11058-4410-2233-FAF8-138E0E72E3CE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=1aef9fa0473e9210fa915eae38ac495b%7C48f462a620bd4aca9d29e26dfaa45d66%7C2b64bd27-bc00-496e-9f1a-28b7a7a19bcc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.30-08.45.43:495][600]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.30-08.45.43:507][600]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.30-08.45.43:507][600]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.30-08.45.43:507][600]LogPakFile: Destroying PakPlatformFile
+[2025.06.30-08.45.43:882][600]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.30-08.45.43:902][600]LogExit: Exiting.
+[2025.06.30-08.45.43:936][600]Log file closed, 06/30/25 10:45:43

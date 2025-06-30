@@ -1,0 +1,139 @@
+[33m686c378[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{0}: rebase (pick): d
+[33mca4a4da[m HEAD@{1}: rebase (pick): d
+[33mbf2f2ec[m HEAD@{2}: rebase (continue): d
+[33m822ea79[m HEAD@{3}: commit: d
+[33mb7aaa85[m HEAD@{4}: rebase (pick): d
+[33m3697c82[m HEAD@{5}: rebase (pick): d
+[33m7587f16[m HEAD@{6}: rebase (pick): d
+[33m26d9fcc[m HEAD@{7}: rebase (continue): quest and stuff
+[33mf0a33d1[m HEAD@{8}: rebase (continue): dialogue stuff
+[33m598589f[m HEAD@{9}: rebase (continue): dialog
+[33m8a24ab2[m HEAD@{10}: rebase (continue): quest and stuff
+[33m1ac63f6[m HEAD@{11}: rebase (continue): dialog
+[33mb3743f1[m HEAD@{12}: rebase (pick): d
+[33m33a0c45[m HEAD@{13}: rebase (continue): D
+[33m80ce345[m HEAD@{14}: rebase (continue): d
+[33m98dbd0a[m HEAD@{15}: rebase (continue): d
+[33m03d794f[m HEAD@{16}: rebase (continue): still digging
+[33mbe56bad[m HEAD@{17}: rebase (continue): chest
+[33m33a6b62[m HEAD@{18}: rebase (continue): map and digging
+[33mc53a91f[m HEAD@{19}: rebase (continue): spawnowanie skrzynek i stuff
+[33m8e0c446[m HEAD@{20}: rebase (pick): d
+[33m3b6e69e[m HEAD@{21}: rebase (continue): skszynka
+[33mf06c7b7[m HEAD@{22}: rebase (pick): d
+[33m36fb750[m HEAD@{23}: rebase (pick): d
+[33m6125129[m HEAD@{24}: rebase (continue): sjaddkajh
+[33m01d5191[m HEAD@{25}: rebase (pick): d
+[33m488be16[m HEAD@{26}: rebase (pick): d
+[33m5e7c9f5[m HEAD@{27}: rebase (continue): animacja lopaty
+[33m1b0fb7d[m HEAD@{28}: rebase (continue): Adding digging animation
+[33mc33b83a[m HEAD@{29}: rebase (pick): assets
+[33m0321cb3[m HEAD@{30}: rebase (pick): Adding assets
+[33mafc42aa[m HEAD@{31}: rebase (pick): create git ignore
+[33m3b89b14[m HEAD@{32}: rebase (pick): Initial commit
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{33}: rebase (start): checkout ui-hp-damage
+[33m8bd6a85[m[33m ([m[1;32mtmpBranch[m[33m)[m HEAD@{34}: checkout: moving from ui-hp-damage to tmpBranch
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{35}: checkout: moving from tmpBranch to ui-hp-damage
+[33m8bd6a85[m[33m ([m[1;32mtmpBranch[m[33m)[m HEAD@{36}: commit: d
+[33m8fc1282[m HEAD@{37}: commit: d
+[33m251af18[m HEAD@{38}: commit: d
+[33m5bbcfde[m HEAD@{39}: commit: d
+[33m4edcf87[m HEAD@{40}: checkout: moving from patrykLaptop to tmpBranch
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{41}: checkout: moving from tmpBranch to patrykLaptop
+[33m4edcf87[m HEAD@{42}: reset: moving to HEAD
+[33m4edcf87[m HEAD@{43}: commit: try to fix branch
+[33m0ea985e[m HEAD@{44}: checkout: moving from ui-hp-damage to tmpBranch
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{45}: reset: moving to HEAD
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{46}: checkout: moving from tmpBranch to ui-hp-damage
+[33m0ea985e[m HEAD@{47}: reset: moving to HEAD
+[33m0ea985e[m HEAD@{48}: commit: Dodano zmiany z ui-hp-damage (.gitignore i .gitattributes)
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{49}: checkout: moving from ui-hp-damage to tmpBranch
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{50}: reset: moving to HEAD
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{51}: checkout: moving from tmpBranch to ui-hp-damage
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{52}: checkout: moving from dominik to tmpBranch
+[33mdbb4968[m[33m ([m[1;31morigin/dominik[m[33m, [m[1;31morigin/dawid[m[33m, [m[1;32mdominik[m[33m)[m HEAD@{53}: reset: moving to HEAD
+[33mdbb4968[m[33m ([m[1;31morigin/dominik[m[33m, [m[1;31morigin/dawid[m[33m, [m[1;32mdominik[m[33m)[m HEAD@{54}: checkout: moving from tmpBranch to dominik
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{55}: checkout: moving from ui-hp-damage to tmpBranch
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{56}: reset: moving to HEAD
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{57}: checkout: moving from tmpBranch to ui-hp-damage
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{58}: reset: moving to HEAD
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{59}: checkout: moving from patrykLaptop to tmpBranch
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{60}: checkout: moving from patrykPC to patrykLaptop
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{61}: reset: moving to HEAD
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{62}: checkout: moving from patrykLaptop to patrykPC
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{63}: checkout: moving from patryklaptop to patrykLaptop
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{64}: checkout: moving from patrykPC to patryklaptop
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{65}: checkout: moving from patrykPC to patrykPC
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{66}: checkout: moving from ui-hp-damage to patrykPC
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{67}: reset: moving to HEAD
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{68}: checkout: moving from patrykPC to ui-hp-damage
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{69}: reset: moving to HEAD
+[33m438729b[m[33m ([m[1;31morigin/patrykPC[m[33m, [m[1;32mpatrykPC[m[33m)[m HEAD@{70}: commit: d
+[33mcb3ef60[m HEAD@{71}: checkout: moving from patrykLaptop to patrykPC
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{72}: reset: moving to HEAD
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{73}: checkout: moving from patrykPC to patrykLaptop
+[33mcb3ef60[m HEAD@{74}: commit: d
+[33m9d5f24e[m HEAD@{75}: commit (merge): Resolved binary merge conflicts
+[33mcd2b57a[m HEAD@{76}: checkout: moving from patrykPC to patrykPC
+[33mcd2b57a[m HEAD@{77}: checkout: moving from ui-hp-damage to patrykPC
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{78}: reset: moving to HEAD
+[33ma09244d[m[33m ([m[1;31morigin/ui-hp-damage[m[33m, [m[1;32mui-hp-damage[m[33m)[m HEAD@{79}: checkout: moving from patrykPC to ui-hp-damage
+[33mcd2b57a[m HEAD@{80}: merge patrykLaptop: Merge made by the 'ort' strategy.
+[33m1508d2a[m HEAD@{81}: commit: d
+[33m9c8e943[m HEAD@{82}: checkout: moving from patrykLaptop to patrykPC
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{83}: reset: moving to HEAD
+[33md49e7c4[m[33m ([m[1;31morigin/patrykLaptop[m[33m, [m[1;32mpatrykLaptop[m[33m)[m HEAD@{84}: commit: d
+[33m94088a7[m HEAD@{85}: checkout: moving from main to patrykLaptop
+[33m69d7bab[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{86}: checkout: moving from patrykLaptop to main
+[33mf3ffad4[m HEAD@{87}: checkout: moving from main to patrykLaptop
+[33m69d7bab[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{88}: checkout: moving from patrykLaptop to main
+[33mf3ffad4[m HEAD@{89}: checkout: moving from main to patrykLaptop
+[33m69d7bab[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{90}: commit (merge): laptopmarge
+[33m0ccee74[m HEAD@{91}: checkout: moving from patrykLaptop to main
+[33mf3ffad4[m HEAD@{92}: commit: enemy
+[33m0fc6cf5[m HEAD@{93}: commit: d
+[33m4049945[m HEAD@{94}: commit (merge): d
+[33md722e0f[m HEAD@{95}: commit: d
+[33ma4bd72d[m HEAD@{96}: commit: d
+[33m66f90b1[m HEAD@{97}: commit: d
+[33mc01a99f[m HEAD@{98}: checkout: moving from patrykPC to patrykLaptop
+[33m9c8e943[m HEAD@{99}: checkout: moving from main to patrykPC
+[33m31952f6[m HEAD@{100}: commit: d
+[33m3753c7a[m HEAD@{101}: commit (merge): d
+[33mda23aeb[m HEAD@{102}: checkout: moving from patrykPC to main
+[33m9c8e943[m HEAD@{103}: commit: d
+[33me0afde8[m HEAD@{104}: commit: d
+[33me029f5f[m HEAD@{105}: commit: d
+[33mfebbe8a[m HEAD@{106}: commit: cleaning and stuff
+[33med6cd07[m HEAD@{107}: commit: Weapon and cleaning
+[33m6179452[m HEAD@{108}: commit: d
+[33m0f1e33e[m HEAD@{109}: commit: d
+[33ma53c1a7[m HEAD@{110}: commit: d
+[33m7865d0e[m HEAD@{111}: reset: moving to 7865d0ec58765684c0d0a89dd1f0ba88243a9ef7
+[33m7bfb933[m HEAD@{112}: commit: making island pretty
+[33m7865d0e[m HEAD@{113}: commit: d
+[33me3a8fca[m HEAD@{114}: commit: d
+[33m79eb5b7[m HEAD@{115}: commit: d
+[33mdef0599[m HEAD@{116}: commit: quest and stuff
+[33me5c1706[m HEAD@{117}: commit: dialogue stuff
+[33m262232e[m HEAD@{118}: commit: dialog
+[33mab526dc[m HEAD@{119}: commit: quest and stuff
+[33mee30002[m HEAD@{120}: commit: dialog
+[33md05fbdf[m HEAD@{121}: commit: d
+[33mad55ab9[m HEAD@{122}: commit: D
+[33m03369ec[m HEAD@{123}: commit: d
+[33mffd837b[m HEAD@{124}: commit: d
+[33m464299d[m HEAD@{125}: merge patrykLaptop: Fast-forward
+[33m13d8c57[m HEAD@{126}: commit: map and digging
+[33mdbb4968[m[33m ([m[1;31morigin/dominik[m[33m, [m[1;31morigin/dawid[m[33m, [m[1;32mdominik[m[33m)[m HEAD@{127}: checkout: moving from patrykLaptop to patrykPC
+[33mdbb4968[m[33m ([m[1;31morigin/dominik[m[33m, [m[1;31morigin/dawid[m[33m, [m[1;32mdominik[m[33m)[m HEAD@{128}: checkout: moving from main to patrykLaptop
+[33mda23aeb[m HEAD@{129}: commit: d
+[33m5bb49d2[m HEAD@{130}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33me38414f[m HEAD@{131}: commit (merge): d
+[33m8b7616e[m HEAD@{132}: commit: d
+[33m87634e5[m HEAD@{133}: commit: skszynka
+[33meac9834[m HEAD@{134}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m2314c12[m HEAD@{135}: commit: sjaddkajh
+[33m5ba937a[m HEAD@{136}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33m2a6e18c[m HEAD@{137}: reset: moving to HEAD
+[33m2a6e18c[m HEAD@{138}: clone: from https://github.com/PatrykTL/ThievesOfSeasv2.git

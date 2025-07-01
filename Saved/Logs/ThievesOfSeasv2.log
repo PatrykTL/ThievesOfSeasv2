@@ -1267,3 +1267,141 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.01-15.24.52:797][ 50]LogSlate: Window 'Message Log' being destroyed
 [2025.07.01-15.26.32:550][272]LogDerivedDataCache: C:/Users/pweso/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.07.01-15.26.42:187][936]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.30.14:927][170]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.30.15:301][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.779297
+[2025.07.01-15.30.16:302][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.01-15.30.16:302][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 333.447723, Update Interval: 302.585541
+[2025.07.01-15.30.39:137][243]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.30.50:491][277]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.31.05:858][323]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.31.21:115][480]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.31.41:977][543]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.32.02:470][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.32.22:830][665]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.32.43:467][727]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.33.04:599][790]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.33.22:908][845]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.33.35:616][883]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.33.52:076][932]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.34.07:846][979]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.34.28:376][ 41]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.34.49:232][104]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.35.03:003][145]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.35.22:774][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.252625
+[2025.07.01-15.35.23:438][206]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.35.23:776][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.01-15.35.23:776][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 640.926270, Update Interval: 309.307526
+[2025.07.01-15.35.43:856][267]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.35.56:748][306]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.36.07:877][339]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.07.01-15.36.22:917][714]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.07.01-15.36.22:936][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.07.01-15.36.22:942][714]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.07.01-15.36.22:942][714]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.07.01-15.36.22:942][714]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_TresureIsland
+[2025.07.01-15.36.23:057][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114000s)
+[2025.07.01-15.36.23:057][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/TresureIsland.TresureIsland to /Game/Map/UEDPIE_0_TresureIsland.TresureIsland (0.114076s)
+[2025.07.01-15.36.23:144][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.07.01-15.36.23:146][714]LogChaosDD: Creating Chaos Debug Draw Scene for world TresureIsland
+[2025.07.01-15.36.23:149][714]LogPlayLevel: PIE: World Init took: (0.002607s)
+[2025.07.01-15.36.23:151][714]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.01-15.36.23:151][714]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.01-15.36.23:151][714]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.01-15.36.23:151][714]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.01-15.36.23:151][714]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.01-15.36.23:151][714]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.01-15.36.23:154][714]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.01-15.36.23:184][714]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2025.07.01-15.36.23:185][714]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.01-15.36.23:185][714]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.01-15.36.23:185][714]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.01-15.36.23:185][714]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.07.01-15.36.23:185][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.07.01-15.36.23:189][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.07.01-15.36.23:189][714]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.07.01-15.36.23:189][714]LogInit: FAudioDevice initialized with ID 2.
+[2025.07.01-15.36.23:189][714]LogAudio: Display: Audio Device (ID: 2) registered with world 'TresureIsland'.
+[2025.07.01-15.36.23:189][714]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.01-15.36.23:194][714]LogLoad: Game class is 'TreasureIslandGameMode_C'
+[2025.07.01-15.36.23:224][714]LogWorld: Bringing World /Game/Map/UEDPIE_0_TresureIsland.TresureIsland up for play (max tick rate 0) at 2025.07.01-17.36.23
+[2025.07.01-15.36.23:225][714]LogWorld: Bringing up level for play took: 0.030822
+[2025.07.01-15.36.23:228][714]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2025.07.01-15.36.23:233][714]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (EnemyController_C_0)
+[2025.07.01-15.36.23:235][714]PIE: Server logged in
+[2025.07.01-15.36.23:237][714]PIE: Play in editor total start time 0,301 seconds.
+[2025.07.01-15.36.24:833][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.01-15.36.24:833][802]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_TresureIsland
+[2025.07.01-15.36.24:833][802]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.01-15.36.24:835][802]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-15.36.24:840][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-15.36.24:842][802]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.07.01-15.36.24:847][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-15.36.24:872][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.01-15.36.24:873][802]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.07.01-15.36.24:873][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.07.01-15.36.24:875][802]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.07.01-15.36.24:881][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.01-15.36.24:891][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.07.01-15.36.24:939][803]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.07.01-15.36.29:136][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.01-15.36.29:438][ 48]LogStall: Shutdown...
+[2025.07.01-15.36.29:438][ 48]LogStall: Shutdown complete.
+[2025.07.01-15.36.29:573][ 48]LogSlate: Window 'ThievesOfSeasv2 - Unreal Editor' being destroyed
+[2025.07.01-15.36.29:689][ 48]Cmd: QUIT_EDITOR
+[2025.07.01-15.36.29:690][ 49]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.01-15.36.29:708][ 49]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.01-15.36.29:708][ 49]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.01-15.36.29:708][ 49]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.01-15.36.29:719][ 49]LogWorld: UWorld::CleanupWorld for TresureIsland, bSessionEnded=true, bCleanupResources=true
+[2025.07.01-15.36.29:719][ 49]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.07.01-15.36.29:721][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.01-15.36.29:761][ 49]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.01-15.36.29:761][ 49]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.07.01-15.36.29:762][ 49]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.01-15.36.29:766][ 49]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.07.01-15.36.29:766][ 49]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.01-15.36.29:770][ 49]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.07.01-15.36.30:187][ 49]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.01-15.36.30:187][ 49]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.01-15.36.30:187][ 49]LogAudio: Display: Audio Device unregistered from world 'TresureIsland'.
+[2025.07.01-15.36.30:187][ 49]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.01-15.36.30:187][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.07.01-15.36.30:190][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.07.01-15.36.30:207][ 49]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.01-15.36.30:207][ 49]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.01-15.36.30:208][ 49]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.07.01-15.36.30:212][ 49]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.01-15.36.30:215][ 49]LogExit: Preparing to exit.
+[2025.07.01-15.36.30:303][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.01-15.36.30:864][ 49]LogEditorDataStorage: Deinitializing
+[2025.07.01-15.36.30:957][ 49]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/UE_pro/ThievesOfSeasv2/Content/]. Aborting watch request...
+[2025.07.01-15.36.30:982][ 49]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.01-15.36.30:996][ 49]LogExit: Editor shut down
+[2025.07.01-15.36.31:000][ 49]LogExit: Transaction tracking system shut down
+[2025.07.01-15.36.31:121][ 49]LogExit: Object subsystem successfully closed.
+[2025.07.01-15.36.31:206][ 49]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.01-15.36.31:267][ 49]LogMemoryProfiler: Shutdown
+[2025.07.01-15.36.31:267][ 49]LogNetworkingProfiler: Shutdown
+[2025.07.01-15.36.31:267][ 49]LoadingProfiler: Shutdown
+[2025.07.01-15.36.31:267][ 49]LogTimingProfiler: Shutdown
+[2025.07.01-15.36.31:267][ 49]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.07.01-15.36.31:267][ 49]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.07.01-15.36.31:636][ 49]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.01-15.36.31:636][ 49]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.01-15.36.31:679][ 49]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.01-15.36.31:679][ 49]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B416820FC-453D-3AE0-9786-AE9AA77DFE51%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=1aef9fa0473e9210fa915eae38ac495b%7C48f462a620bd4aca9d29e26dfaa45d66%7C2b64bd27-bc00-496e-9f1a-28b7a7a19bcc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.01-15.36.32:228][ 49]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.01-15.36.32:229][ 49]RenderDocPlugin: plugin has been unloaded.
+[2025.07.01-15.36.32:229][ 49]LogXGEController: Cleaning working directory: C:/Users/pweso/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.01-15.36.32:236][ 49]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.01-15.36.32:236][ 49]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.01-15.36.32:236][ 49]LogPakFile: Destroying PakPlatformFile
+[2025.07.01-15.36.32:771][ 49]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.01-15.36.32:785][ 49]LogExit: Exiting.
+[2025.07.01-15.36.32:819][ 49]Log file closed, 07/01/25 17:36:32

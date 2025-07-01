@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Filmiki/BP_GOLD_PILE.uasset",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Filmiki/Cinematics/Takes/2025-07-01/Scene_1_01.uasset",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Filmiki/NewLevelSequence.uasset",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Map/TresureIsland.umap",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Combat/WBP_HealthBar.uasset",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Minimap/WBP_Minimap.uasset",
+				"D:/Epic Games/Unreal Engine/GitHub/ThievesOfSeasv2/Content/Filmiki/StartSequence.uasset",
 				"D:/UE_pro/ThievesOfSeasv2/Content/SKM_Pirate_Full_V1_CtrlRig_Take1.uasset",
 				"D:/UE_pro/ThievesOfSeasv2/Content/NewMap.umap",
 				"D:/UE_pro/ThievesOfSeasv2/Content/Animations/SK_old_shovel_Sequence.uasset",
